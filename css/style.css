@@ -8,16 +8,6 @@ body {
     box-sizing: border-box; /* Añadido para incluir márgenes y padding en el tamaño total del elemento */
 }
 
-/* #home {
-    background-image: url('../images/blue-11.png');
-    background-size: contain;  La imagen de fondo cubrirá toda la sección 
-    background-position: center left; La imagen de fondo se centrará en la sección 
-    background-repeat: no-repeat;  Evita que la imagen de fondo se repita 
-    padding: 500px;
-}
- */
-
-
 .error-message {
     color: red;
 }
@@ -35,11 +25,7 @@ body {
     background-color: #fff;
 }
 .section {
-    padding: 100px 100px; /* checar espacios
-}
-.section-heading {
-    font-size: 36px;
-    /* margin-bottom: 30px; */
+    padding: 100px 100px;
     text-align: center;
 }
 
